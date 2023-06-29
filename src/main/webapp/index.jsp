@@ -1,6 +1,6 @@
 
 <html>
 <body>
-<h2>Hello Docker</h2>
+<h2>Hello Docker & Kubernetes</h2>
 </body>
 </html>
