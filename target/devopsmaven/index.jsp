@@ -1,6 +1,6 @@
 
 <html>
 <body>
-<h2>Problem Statement 3</h2>
+<h2>Welcome to devops training</h2>
 </body>
 </html>
